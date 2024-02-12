@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basketball-quiz/static/css/main.2294e3f2.css",
+    "main.js": "/basketball-quiz/static/js/main.74141081.js",
+    "index.html": "/basketball-quiz/index.html",
+    "main.2294e3f2.css.map": "/basketball-quiz/static/css/main.2294e3f2.css.map",
+    "main.74141081.js.map": "/basketball-quiz/static/js/main.74141081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2294e3f2.css",
+    "static/js/main.74141081.js"
+  ]
+}
