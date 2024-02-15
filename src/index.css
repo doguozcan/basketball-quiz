@@ -16,3 +16,7 @@
 .fadeIn {
   animation: fadeIn 2s;
 }
+
+body {
+  @apply bg-[#2B2E4A];
+}
