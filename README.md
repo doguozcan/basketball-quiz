@@ -4,6 +4,11 @@
 
 This React app not only offers a dynamic and interactive way to test your basketball knowledge but also serves as an excellent resource for enhancing your understanding of conditional rendering and state management in React. Through navigating multiple-choice questions, receiving instant feedback, and viewing their final score upon completion, users can improve their React skills especially useState hook, in a practical manner.
 
+## Screenshots
+
+![basketball-quiz-question](https://github.com/doguozcan/basketball-quiz/assets/76822280/4f8ed30d-19bb-4715-a411-466362f84b68)
+![basketball-quiz-end](https://github.com/doguozcan/basketball-quiz/assets/76822280/5bdb2501-7238-4fa3-bbc4-7e5aeea98d0a)
+
 ## Features
 
 - **Dynamic Question Handling**: Utilizes React state management to navigate through questions and store user scores.
